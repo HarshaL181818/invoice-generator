@@ -13,6 +13,9 @@
   mongosh
   ```
 
+
+### Install and Start MongoDB
+- Ensure **hello**
 ### 2️⃣ Clone the Repository  
 - Run the following command to clone the project repository:  
   ```sh
