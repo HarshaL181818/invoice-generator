@@ -2,17 +2,7 @@
 ```md
 ## 🚀 Setup and Run the Application
 
-### 1️⃣ Install and Start MongoDB  
-- Ensure **MongoDB Server** and **MongoDB Shell** are installed and added to the system path.  
-- Open **Command Prompt** and start the MongoDB service:  
-  ```sh
-  mongod
-  ```
-- In another terminal, connect to MongoDB Shell:  
-  ```sh
-  mongosh
-  ```
-
+### some issue with formatting
 
 ### 1️⃣ Install and Start MongoDB
 - Ensure **MongoDB Server** and **MongoDB Shell** are installed and added to the system path.  
