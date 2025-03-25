@@ -1,7 +1,9 @@
 
 ```md
-### 🚀 Setup and Run the Application
+
 ```
+
+### 🚀 Setup and Run the Application
 
 ### 1️⃣ Install and Start MongoDB
 - Ensure **MongoDB Server** and **MongoDB Shell** are installed and added to the system path.  
