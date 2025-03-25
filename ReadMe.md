@@ -56,5 +56,8 @@
   ```sh
   git push origin main
   ```
-
+### 5️⃣ Pull the Most recent copy to local system
+  ```sh
+  git pull
+  ```
 ---
