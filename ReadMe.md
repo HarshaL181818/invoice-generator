@@ -1,7 +1,4 @@
 
-```md
-
-```
 
 ### 🚀 Setup and Run the Application
 
