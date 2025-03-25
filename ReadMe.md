@@ -1,8 +1,6 @@
 
 ```md
 ### 🚀 Setup and Run the Application
-
-### formatting issue
 ```
 
 ### 1️⃣ Install and Start MongoDB
