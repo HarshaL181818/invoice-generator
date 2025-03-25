@@ -14,8 +14,17 @@
   ```
 
 
-### Install and Start MongoDB
-- Ensure **hello**
+### 1️⃣ Install and Start MongoDB
+- Ensure **MongoDB Server** and **MongoDB Shell** are installed and added to the system path.  
+- Open **Command Prompt** and start the MongoDB service:  
+  ```sh
+  mongod
+  ```
+- In another terminal, connect to MongoDB Shell:  
+  ```sh
+  mongosh
+  ```
+
 ### 2️⃣ Clone the Repository  
 - Run the following command to clone the project repository:  
   ```sh
