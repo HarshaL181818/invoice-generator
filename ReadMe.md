@@ -28,7 +28,7 @@
 ### 2️⃣ Clone the Repository  
 - Run the following command to clone the project repository:  
   ```sh
-  git clone <repository-url>
+  git clone https://github.com/HarshaL181818/invoice-generator.git
   ```
 
 ### 3️⃣ Run the Frontend  
