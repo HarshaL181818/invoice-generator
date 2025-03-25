@@ -1,0 +1,43 @@
+# Node.js dependencies (for frontend & backend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python dependencies (if backend uses Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Build and coverage files
+/build/
+/dist/
+coverage/
+
+# Environment variables
+./backend/env
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+
+# Editor and OS-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
